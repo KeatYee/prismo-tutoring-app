@@ -68,7 +68,8 @@ Students in Malaysia — both **high school and university** — struggle to acc
 ---
 
 ## 🏆 Team
-- Project: **Prismo** – Hackathon Prototype  
+- Project: **Prismo** – Hackathon Prototype
+- Team Name: IT Fam
 - Team Members: Loke Keat Yee, Tay Ernest, Taynushre, Toh Yuan Wei
 
 ---
